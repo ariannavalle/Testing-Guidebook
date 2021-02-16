@@ -1,0 +1,5 @@
+.DS_Store
+wdio-testrunner/.DS_Store
+wdio-testrunner/node_modules/
+wdio-standalone/node_modules/
+
